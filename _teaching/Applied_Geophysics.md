@@ -8,7 +8,7 @@ date: 2014-2016
 location: "Uppsala, Sweden"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was involved in the course as a TA.
 
 Heading 1
 ======
