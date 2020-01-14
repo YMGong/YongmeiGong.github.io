@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "S. Wang"
 excerpt: "S. Wang"
 author_profile: true
 redirect_from: 
