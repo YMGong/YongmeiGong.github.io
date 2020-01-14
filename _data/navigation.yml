@@ -1,22 +1,19 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications/   
+    
+  - title: "Research"
+    url: /research/    
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Teaching"
+#    url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+    url: /files/CV_SWang.pdf
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
