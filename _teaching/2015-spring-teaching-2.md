@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Uppsala University"
-date: 2015-2016
+date: 2015-01-01
 location: "Uppsala, Sweden"
 ---
 
