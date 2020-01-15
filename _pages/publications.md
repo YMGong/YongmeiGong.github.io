@@ -16,6 +16,6 @@ author_profile: true
 {% endfor %}
 
 <br>
-<b>[A marine magnetotelluric coast effect sensitive to the lithosphere-asthenosphere boundary](http://lantaoyu.com/publications/TextDR)</b> <br> 
+<b>[A marine magnetotelluric coast effect sensitive to the lithosphere-asthenosphere boundary](https://academic.oup.com/gji/article-abstract/218/2/978/5485642)</b> <br> 
 <b>Wang, S.</b>, Constable, S., Reyes-Ortega, V., Rychert, C.A.
-<i>The 23rd International Conference on Artificial Intelligence and Statistics</i>. <b>AISTATS 2020</b>.
+<i>Geophysical Journal International</i>. <b>2019</b>.
