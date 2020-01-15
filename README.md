@@ -1,2 +1,2 @@
 
-Academic website of Shunguo Wang!
+[Academic homepage of Shunguo Wang!](https://shunguowang.github.io/)
