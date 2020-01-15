@@ -8,7 +8,7 @@ date: 2015-01-01
 location: "Uppsala, Sweden"
 ---
 
-I was involved as a TA in the course.
+I was involved in the course as a TA .
 
 Heading 1
 ======
