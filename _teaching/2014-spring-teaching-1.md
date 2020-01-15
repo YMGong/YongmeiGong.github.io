@@ -2,7 +2,7 @@
 title: "Applied Geophysics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Applied_Geophysics
+permalink: /teaching/2014-spring-teaching-1
 venue: "Uppsala University"
 date: 2014-2016
 location: "Uppsala, Sweden"
