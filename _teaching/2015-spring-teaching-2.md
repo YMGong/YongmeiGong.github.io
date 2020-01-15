@@ -2,7 +2,7 @@
 title: "Electromagnetic Geophysics"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/Electromagnetic_Geophysics
+permalink: /teaching/2015-spring-teaching-2
 venue: "Uppsala University"
 date: 2015-2016
 location: "Uppsala, Sweden"
