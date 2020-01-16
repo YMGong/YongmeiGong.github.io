@@ -17,7 +17,7 @@ The first one is an example.
 
 Rychert C.A., Harmon N., Kendall J.M., Constable S., Tharimena S., <b>Wang, S.</b>, Bogiatzis P., SchlaphorstD., Agius M., Hicks S., 2019. <b>[A dynamic lithosphere-asthenosphere boundary dictated by variations in melt generation and migration.]</b> <br>  <i>Under review</i> 
 
-<b>Wang, S.</b>, Constable, S., Reyes-Ortega, V., Rychert, C.A., 2019. <b>[A marine magnetotelluric coast effect sensitive to the lithosphere-asthenosphere boundary.] </b> <br> <i>Geophys. J. Int.</i>, 218(2), 978-987. DOI:10.1093/gji/ggz202
+<b>Wang, S.</b>, Constable, S., Reyes-Ortega, V., Rychert, C.A., 2019. <b>[A marine magnetotelluric coast effect sensitive to the lithosphere-asthenosphere boundary.](https://academic.oup.com/gji/article-abstract/218/2/978/5485642) </b> <br> <i>Geophys. J. Int.</i>, 218(2), 978-987. DOI:10.1093/gji/ggz202
 
 <b>Wang, S.</b>, Bastani, M., Constable, S., Kalscheuer, T., Malehmir, A., 2019. <b>[Using boat-towed radio-magnetotelluric and controlledsource audio-magnetotelluric data to resolve fracture zones at Äspö Hard Rock Laboratory site, Sweden.]</b> <br>  <i>Geophys. J. Int.</i>, 218(2), 1008-1031. DOI:10.1093/gji/ggz162
 
@@ -29,9 +29,9 @@ Li, K., Dai, S., Chen, Q, Zhang, Q., Zhao, D., <b>Wang, S.</b>, Ling, J., 2019. 
 
 <b>Wang, S.</b>, 2017. <b>[Joint inversion and integration of multiple geophysical data for improved models of near-surface structures.]</b> <br>  <i>PhD thesis</i>, Uppsala University, Uppsala. ISBN: 978-91-513-0018-4 
 
-Brodic, B., Malehmir, A., Bastani, M., Mehta, S., Juhlin, C., Lundberg, E. and <b>Wang, S.</b>, 2017. <b>[Multi-component digital-based seismic landstreamer and boat-towed radio-magnetotelluric acquisition systems for improved subsurface characterization in the urban environment.] <i>First Break</i>, 35(8), 41-47.
+Brodic, B., Malehmir, A., Bastani, M., Mehta, S., Juhlin, C., Lundberg, E. and <b>Wang, S.</b>, 2017. <b>[Multi-component digital-based seismic landstreamer and boat-towed radio-magnetotelluric acquisition systems for improved subsurface characterization in the urban environment.] </b> <br> <i>First Break</i>, 35(8), 41-47.
 
-<b>Wang, S.</b>, Malehmir, A., Bastani, M., 2016. <b>[Geophysical characterization of areas prone to quick-clay landslides using radio-magnetotelluric and seismic methods.]</b> <br>  <i>Tectonophysics</i>, 677, 248-260.
+<b>Wang, S.</b>, Malehmir, A., Bastani, M., 2016. <b>[Geophysical characterization of areas prone to quick-clay landslides using radio-magnetotelluric and seismic methods.]</b> <br> <i>Tectonophysics</i>, 677, 248-260.
 
 Malehmir, A., <b>Wang, S.</b>, Lamminen, J., Brodic, B., Bastani, M., Vaittinen, K., Juhlin, C., Place, J., 2015. <b>[Delineating structures controlling sandstone-hosted base-metal deposits using high-resolution multicomponent seismic and radio-magnetotelluric methods: a case study from Northern Sweden.]</b> <br> <i>Geophys. Prospect.</i>, 63(4), 774-797.
 
