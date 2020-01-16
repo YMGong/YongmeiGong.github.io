@@ -10,7 +10,7 @@ redirect_from:
 
 I become a geophysicist. You do if you enjoy implementing new algorithms, acquiring geophysical datasets in the surprising nature, and processing the field data to understand the stories of the Earth. Electrical resistivity tomography, radio/audio-magnetotellurics, controlled source electromagnetics, and seismic refraction are mine special collection in geophysics. I also like surfing, hiking, reading, yoga, etc.
 
-<br> <b> <span style="font-size:150%"> Employment </span> </b>
+<br> <b> <span style="font-size:150%"> Employment </span> </b> <br> 
 <br> <b>2018 -</b> 
 <br> Green Scholar (postdoc), Scripps Institution of Oceanography
 <br> Advisor: Steven Constable
@@ -23,7 +23,7 @@ I become a geophysicist. You do if you enjoy implementing new algorithms, acquir
 <br> EM geophysicist, Geological Survey of Sweden
 <br> Collaborators: Mehrdad Bastani, Lena Persson
 
-<br> <b>Education</b>
+<br> <b> <span style="font-size:150%"> Education </span> </b> <br>
 <br> <b>2013 - 2017</b> 
 <br> Ph.D., Solid-Earth Geophysics, Uppsala University
 <br> Advisors: Mehrdad Bastani, Thomas Kalscheuer, Alireza Malehmir
