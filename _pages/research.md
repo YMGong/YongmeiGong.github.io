@@ -20,12 +20,15 @@ Joint utilization of boat-towed radio-magnetotellurics (RMT) and controlled-sour
 
 The electrical resistivity tomography (ERT) method provides moderately good constraints for both conductive and resistive structures, while the radio-magnetotelluric (RMT) method is well suited to constrain conductive structures. Additionally, RMT and ERT data may have different target coverage and are differently affected by various types of noise. Hence, joint inversion of RMT and ERT data sets may provide a better-constrained model as compared to individual inversions. In this study, joint inversion of boat-towed RMT and lake-floor ERT data has for the first time been formulated and implemented.
 
+<p align="center">
+  <img src="http://shunguowang.github.io/images/Joint_RMT_ERT.jpg" alt="Photo" style="width: 1000px;"/> 
+</p>
+
 <br>
 <b>Quick clay investigation using RMT and seismic data</b> <br>
 
 Radio-magnetotelluric and seismic methods were used to map potential quick clays in Sweden in order to predict quick-clay landslide. Quick clay often overlies at top of a coarse-grained layer. The former can be delineated by RMT inversion, and the latter can be delineated by seismic tomography. The delineation result is comparable to borehole observations.
 
-<br>
 <p align="center">
   <img src="http://shunguowang.github.io/images/QC_l2.jpg" alt="Photo" style="width: 1000px;"/> 
 </p>
