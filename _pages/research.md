@@ -11,7 +11,7 @@ author_profile: true
 At low frequencies, the TM-mode coast effect shows as depressed apparent resistivities and unaltered phase. At high frequencies at sufficient distance from the coast it shows, however, as depressed apparent resistivities and negative phases. TM-mode negative phases are an obvious feature of inductive distortion. Thus, the coast effect in marine MT TM-mode data is a combination of galvanic and inductive distortions. 
 
 <p align="center">
-<video src="http://shunguowang.github.io/images/Video_CE.mov" width="800" height="400" controls preload></video>
+<video src="http://shunguowang.github.io/images/Video_CE.mov" width="800" height="500" controls preload></video>
 </p>
 
 <br>
@@ -29,7 +29,7 @@ Joint utilization of boat-towed radio-magnetotellurics (RMT) and controlled-sour
 The electrical resistivity tomography (ERT) method provides moderately good constraints for both conductive and resistive structures, while the radio-magnetotelluric (RMT) method is well suited to constrain conductive structures. Additionally, RMT and ERT data may have different target coverage and are differently affected by various types of noise. Hence, joint inversion of RMT and ERT data sets may provide a better-constrained model as compared to individual inversions. In this study, joint inversion of boat-towed RMT and lake-floor ERT data has for the first time been formulated and implemented.
 
 <p align="center">
-  <img src="http://shunguowang.github.io/images/Joint_RMT_ERT.jpg" alt="Photo" style="width: 700px;"/> 
+  <img src="http://shunguowang.github.io/images/Joint_RMT_ERT.jpg" alt="Photo" style="width: 650px;"/> 
 </p>
 
 <br>
