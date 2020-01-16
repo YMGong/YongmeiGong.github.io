@@ -11,7 +11,7 @@ The first one is an example.
 <b>Wang, S.</b>, Constable, S., Reyes-Ortega, V., Rychert, C.A.
 <i>Geophysical Journal International</i>. <b>2019</b>.
 
-<b>Wang, S.</b>, Constable, S., Rychert C.A., Harmon N., 2020. <b>[A lithosphere-asthenosphere boundary and partial melt resolved using marine magnetotelluric data.]</b> <br>  <i>Manuscript</i> 
+<b>Wang, S.</b>, Constable, S., Rychert C.A., Harmon N., 2020. <br> <b>[A lithosphere-asthenosphere boundary and partial melt resolved using marine magnetotelluric data.]</b> <br>  <i>Manuscript</i> 
 
 <b>Wang, S.</b>, Constable, S., Reyes-Ortega, V., Jahandari, H., Farquharson, C., Avilés-Esquivel, T., 2020. <b>[Two-dimensional determinant inversion of marine magnetotelluric data and a field example from the Gulf of California, Mexico.]</b> <br>  <i>Under review</i>
 
