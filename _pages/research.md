@@ -24,3 +24,8 @@ The electrical resistivity tomography (ERT) method provides moderately good cons
 <b>Quick clay investigation using RMT and seismic data</b> <br>
 
 Radio-magnetotelluric and seismic methods were used to map potential quick clays in Sweden in order to predict quick-clay landslide. Quick clay often overlies at top of a coarse-grained layer. The former can be delineated by RMT inversion, and the latter can be delineated by seismic tomography. The delineation result is comparable to borehole observations.
+
+<br>
+<p align="center">
+  <img src="https://?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
