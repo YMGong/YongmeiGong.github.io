@@ -27,5 +27,5 @@ Radio-magnetotelluric and seismic methods were used to map potential quick clays
 
 <br>
 <p align="center">
-  <img src="http://shunguowang.github.io/images/QC_l2.jpg" alt="Photo" style="width: 450px;"/> 
+  <img src="http://shunguowang.github.io/images/QC_l2.jpg" alt="Photo" style="width: 1450px;"/> 
 </p>
