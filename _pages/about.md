@@ -13,6 +13,7 @@ I become a geophysicist. You do if you enjoy implementing new algorithms, acquir
 <br> <b>Employment</b>
 <br> <b>2018 -</b> 
 <br> Green Scholar (postdoc), Scripps Institution of Oceanography
+<br> Advisor: Steven Constable
 <br> <b>2019</b> 
 <br> Lecturer, Scripps Institution of Oceanography
 <br> <b>2018</b> 
