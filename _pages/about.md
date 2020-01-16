@@ -10,7 +10,7 @@ redirect_from:
 
 I become a geophysicist. You do if you enjoy implementing new algorithms, acquiring geophysical datasets in the surprising nature, and processing the field data to understand the stories of the Earth. Electrical resistivity tomography, radio/audio-magnetotellurics, controlled source electromagnetics, and seismic refraction are mine special collection in geophysics. I also like surfing, hiking, reading, yoga, etc.
 
-<br> <b>Employment</b>
+<br> <span style="font-size:150%"> <b>Employment</b> </span>
 <br> <b>2018 -</b> 
 <br> Green Scholar (postdoc), Scripps Institution of Oceanography
 <br> Advisor: Steven Constable
