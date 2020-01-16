@@ -21,7 +21,7 @@ Joint utilization of boat-towed radio-magnetotellurics (RMT) and controlled-sour
 The electrical resistivity tomography (ERT) method provides moderately good constraints for both conductive and resistive structures, while the radio-magnetotelluric (RMT) method is well suited to constrain conductive structures. Additionally, RMT and ERT data may have different target coverage and are differently affected by various types of noise. Hence, joint inversion of RMT and ERT data sets may provide a better-constrained model as compared to individual inversions. In this study, joint inversion of boat-towed RMT and lake-floor ERT data has for the first time been formulated and implemented.
 
 <p align="center">
-  <img src="http://shunguowang.github.io/images/Joint_RMT_ERT.jpg" alt="Photo" style="width: 1000px;"/> 
+  <img src="http://shunguowang.github.io/images/Joint_RMT_ERT.jpg" alt="Photo" style="width: 600px;"/> 
 </p>
 
 <br>
