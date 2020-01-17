@@ -7,7 +7,6 @@ author_profile: true
 
 <br>
 [Ctrl/⌘+click opens all the links in a new tab](https://shunguowang.github.io/google5dce8c34251015a7.html)
-
 <br>
 <b>Wang, S.</b>, Constable, S., Rychert C.A., Harmon N., 2020. <br> <b>[A lithosphere-asthenosphere boundary and partial melt resolved using marine magnetotelluric data.]</b> <br> <i>Manuscript</i> 
 
