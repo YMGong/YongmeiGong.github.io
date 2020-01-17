@@ -17,7 +17,7 @@ I become a geophysicist. You do if you enjoy implementing new algorithms, acquir
 <br> <b>2019</b> 
 <br> Lecturer, Scripps Institution of Oceanography
 <br> <b>2018</b> 
-<br> Visiting postdoctoral scholar, Memorial University of Newfoundland
+<br> Visiting postdoc, Memorial University of Newfoundland
 <br> Collaborators: Colin G. Farquharson, Hormoz Jahandari
 <br> <b>2014, 2016</b> 
 <br> EM geophysicist, Geological Survey of Sweden
