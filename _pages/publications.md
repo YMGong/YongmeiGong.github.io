@@ -42,4 +42,4 @@ Dai, S., <b>Wang, S.</b>, Zhang, Q., Xue, D., 2013. <br> <b>[2.5D forward and in
 
 <b>Wang, S.</b>, Xiong, B., 2010. <br> <b>[Electromagnetic coupling effect in double frequencies surveys over multi-layer earth.](http://en.cnki.com.cn/Article_en/CJFDTotal-WTHT201006012.htm)</b> <br> <i>Computing Techniques for Geophysical and Geochemical Exploration (in Chinese with English abstract)</i>, 32(6), 617-620.
 
-[Google Verify](google5dce8c34251015a7.html)
+[Ctrl+click opens all the links in a new tab](https://shunguowang.github.io/google5dce8c34251015a7.html)
