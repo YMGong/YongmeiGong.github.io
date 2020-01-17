@@ -18,7 +18,7 @@ Rychert C.A., Harmon N., Kendall J.M., Constable S., Tharimena S., <b>Wang, S.</
 
 Dai, S., Zhao, D., <b>Wang, S.</b>, Xiong, B., Zhang, Q., Li, K., Chen, L., Chen, Q., 2019. <br> <b>[Three-dimensional numerical modeling of gravity and magnetic anomaly in a mixed space-wavenumber domain.](https://library.seg.org/doi/pdfplus/10.1190/geo2018-0491.1)</b> <br>  <i>Geophysics</i>, 84(4), G41-54. DOI: 10.1190/geo2018-0491.1
 
-Li, K., Dai, S., Chen, Q, Zhang, Q., Zhao, D., <b>Wang, S.</b>, Ling, J., 2019. <br> <b>[Three-dimensional modeling of magnetic anomaly integral solution in a mixed space-wavenumber domain.] </b> <br> <i>Chinese J. of Geophys.</i>, 62(11): 4437-4450, doi:10.6038/cjg2019M0362. 
+Li, K., Dai, S., Chen, Q, Zhang, Q., Zhao, D., <b>Wang, S.</b>, Ling, J., 2019. <br> <b>[Three-dimensional modeling of magnetic anomaly integral solution in a mixed space-wavenumber domain.](http://html.rhhz.net/dqwlxb/2019-11-4437.htm) </b> <br> <i>Chinese J. of Geophys.</i>, 62(11): 4437-4450, doi:10.6038/cjg2019M0362. 
 
 <b>Wang, S.</b>, Kalscheuer, T., Bastani, M., Malehmir, A., Pedersen, L.B., Dahlin T., Meqbel, N., 2018. <br> <b>[Joint inversion of lake-floor electrical resistivity tomography and boat-towed radio-magnetotelluric data illustrated on synthetic data and an application from the Äspö Hard Rock Laboratory site, Sweden.](https://www.sciencedirect.com/science/article/pii/S0040195116300725)</b> <br>  <i>Geophys. J. Int.</i>, 213(1), 511-533.
 
