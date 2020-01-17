@@ -26,7 +26,7 @@ I become a geophysicist. You do if you enjoy implementing new algorithms, acquir
 <br> <b> <span style="font-size:150%"> Education </span> </b> <br>
 <br> <b>2013 - 2017</b> 
 <br> Ph.D., Solid-Earth Geophysics, Uppsala University
-<br> Advisors: Mehrdad Bastani, Thomas Kalscheuer, Alireza Malehmir
+<br> Advisors: Mehrdad Bastani, Thomas Kalscheuer, Alireza Malehmir, Laust B. Pedersen
 <br> <b>2017</b> 
 <br> Visiting graduate, Scripps Institution of Oceanography
 <br> Host: Steven Constable
