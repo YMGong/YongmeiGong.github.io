@@ -22,24 +22,24 @@ Li, K., Dai, S., Chen, Q, Zhang, Q., Zhao, D., <b>Wang, S.</b>, Ling, J., 2019. 
 
 <b>Wang, S.</b>, Kalscheuer, T., Bastani, M., Malehmir, A., Pedersen, L.B., Dahlin T., Meqbel, N., 2018. <br> <b>[Joint inversion of lake-floor electrical resistivity tomography and boat-towed radio-magnetotelluric data illustrated on synthetic data and an application from the Äspö Hard Rock Laboratory site, Sweden.](https://www.sciencedirect.com/science/article/pii/S0040195116300725)</b> <br>  <i>Geophys. J. Int.</i>, 213(1), 511-533.
 
-<b>Wang, S.</b>, 2017. <br> <b>[Joint inversion and integration of multiple geophysical data for improved models of near-surface structures.]</b> <br>  <i>PhD thesis</i>, Uppsala University, Uppsala. ISBN: 978-91-513-0018-4 
+<b>Wang, S.</b>, 2017. <br> <b>[Joint inversion and integration of multiple geophysical data for improved models of near-surface structures.](http://www.diva-portal.org/smash/get/diva2:1129430/FULLTEXT01.pdf)</b> <br>  <i>PhD thesis</i>, Uppsala University, Uppsala. ISBN: 978-91-513-0018-4 
 
-Brodic, B., Malehmir, A., Bastani, M., Mehta, S., Juhlin, C., Lundberg, E. and <b>Wang, S.</b>, 2017. <br> <b>[Multi-component digital-based seismic landstreamer and boat-towed radio-magnetotelluric acquisition systems for improved subsurface characterization in the urban environment.] </b> <br> <i>First Break</i>, 35(8), 41-47.
+Brodic, B., Malehmir, A., Bastani, M., Mehta, S., Juhlin, C., Lundberg, E. and <b>Wang, S.</b>, 2017. <br> <b>[Multi-component digital-based seismic landstreamer and boat-towed radio-magnetotelluric acquisition systems for improved subsurface characterization in the urban environment.](http://old.earthdoc.org/publication/publicationdetails?publication=89804) </b> <br> <i>First Break</i>, 35(8), 41-47.
 
 <b>Wang, S.</b>, Malehmir, A., Bastani, M., 2016. <br> <b>[Geophysical characterization of areas prone to quick-clay landslides using radio-magnetotelluric and seismic methods.](https://www.sciencedirect.com/science/article/pii/S0040195116300725)</b> <br> <i>Tectonophysics</i>, 677, 248-260.
 
-Malehmir, A., <b>Wang, S.</b>, Lamminen, J., Brodic, B., Bastani, M., Vaittinen, K., Juhlin, C., Place, J., 2015. <br> <b>[Delineating structures controlling sandstone-hosted base-metal deposits using high-resolution multicomponent seismic and radio-magnetotelluric methods: a case study from Northern Sweden.]</b> <br> <i>Geophys. Prospect.</i>, 63(4), 774-797.
+Malehmir, A., <b>Wang, S.</b>, Lamminen, J., Brodic, B., Bastani, M., Vaittinen, K., Juhlin, C., Place, J., 2015. <br> <b>[Delineating structures controlling sandstone-hosted base-metal deposits using high-resolution multicomponent seismic and radio-magnetotelluric methods: a case study from Northern Sweden.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2478.12238)</b> <br> <i>Geophys. Prospect.</i>, 63(4), 774-797.
 
-Dai, S., <b>Wang, S.</b>, Zhang, Q., Xue, D., 2013. <br> <b>[2.5D forward and inversion of CSEM in frequency domain.] </b> <br> <i>The Chinese Journal of Nonferrous Metals (in Chinese with English abstract)</i>, 23(9), 2513-2523.
+Dai, S., <b>Wang, S.</b>, Zhang, Q., Xue, D., 2013. <br> <b>[2.5D forward and inversion of CSEM in frequency domain.](http://www.ysxbcn.com/down/2013/09_cn/22-p2513-D029.pdf) </b> <br> <i>The Chinese Journal of Nonferrous Metals (in Chinese with English abstract)</i>, 23(9), 2513-2523.
 
 <b>Wang, S.</b>, Xiong, B., Dai, S., 2013. <br> <b>[Resolution ability to E-Ex arrangement wide field electromagnetic method studied on 1-D modeling and inversion.](http://www.zndxzk.com.cn/down/2013/09_zkb/30-p3766-92605.pdf) </b> <br> <i>Journal of Central South University (in Chinese with English abstract)</i>, 44(9), 3766-3775.
 
-<b>Wang, S.</b>, 2012. <br> <b>[2.5D forward modeling of wide field electromagnetic method with vertical magnetic dipole source.]</b> <br>  <i>Master thesis (in Chinese with English abstract)</i>, Central South University, Changsha.
+<b>Wang, S.</b>, 2012. <br> <b>[2.5D forward modeling of wide field electromagnetic method with vertical magnetic dipole source.](http://cdmd.cnki.com.cn/Article/CDMD-10533-1012477215.htm)</b> <br> <i>Master thesis (in Chinese with English abstract)</i>, Central South University, Changsha.
 
-<b>Wang, S.</b>, Xiong, B., Wang Y., Li C., 2012. <br> <b>[Wave-number domain features of primary field of H-Hz arrangement wild field electromagnetic method.] </b> <br> <i>Journal of Guilin University of Technology (in Chinese with English abstract)</i>, 32(2), 179-183.
+<b>Wang, S.</b>, Xiong, B., Wang Y., Li C., 2012. <br> <b>[Wave-number domain features of primary field of H-Hz arrangement wild field electromagnetic method.](http://manu28.magtech.com.cn/Jweb_gllg/CN/article/downloadArticleFile.do?attachType=PDF&id=529)</b> <br> <i>Journal of Guilin University of Technology (in Chinese with English abstract)</i>, 32(2), 179-183.
 
-<b>Wang, S.</b>, Xiong, B., 2012. <br> <b>[Numerical calculation methods of wide field apparent resistivity.] </b> <br> <i>Computing Techniques for Geophysical and Geochemical Exploration (in Chinese with English abstract)</i>, 34(4), 380-383.
+<b>Wang, S.</b>, Xiong, B., 2012. <br> <b>[Numerical calculation methods of wide field apparent resistivity.](http://ir.nsfc.gov.cn/paperDownload/1000003790141.pdf) </b> <br> <i>Computing Techniques for Geophysical and Geochemical Exploration (in Chinese with English abstract)</i>, 34(4), 380-383.
 
-<b>Wang, S.</b>, Xiong, B., 2010. <br> <b>[Electromagnetic coupling effect in double frequencies surveys over multi-layer earth.]</b> <br> <i>Computing Techniques for Geophysical and Geochemical Exploration (in Chinese with English abstract)</i>, 32(6), 617-620.
+<b>Wang, S.</b>, Xiong, B., 2010. <br> <b>[Electromagnetic coupling effect in double frequencies surveys over multi-layer earth.](http://en.cnki.com.cn/Article_en/CJFDTotal-WTHT201006012.htm)</b> <br> <i>Computing Techniques for Geophysical and Geochemical Exploration (in Chinese with English abstract)</i>, 32(6), 617-620.
 
 [Google Verify](google5dce8c34251015a7.html)
