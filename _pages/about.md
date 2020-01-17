@@ -40,6 +40,6 @@ I become a geophysicist. You do if you enjoy implementing new algorithms, acquir
 <br> M.S., Applied Geophysics, Central South University
 <br> Advisors: Bin Xiong, Jishan He
 <br> <b>2011</b> 
-<br> Master exchange program, Guilin University of Technology
+<br> Exchange program, Guilin University of Technology
 <br> <b>2005 - 2009</b> 
 <br> B.S., Applied Geophysics, Central South University
