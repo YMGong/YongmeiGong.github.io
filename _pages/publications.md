@@ -20,7 +20,7 @@ Dai, S., Zhao, D., <b>Wang, S.</b>, Xiong, B., Zhang, Q., Li, K., Chen, L., Chen
 
 Li, K., Dai, S., Chen, Q, Zhang, Q., Zhao, D., <b>Wang, S.</b>, Ling, J., 2019. <br> <b>[Three-dimensional modeling of magnetic anomaly integral solution in a mixed space-wavenumber domain.](http://html.rhhz.net/dqwlxb/2019-11-4437.htm) </b> <br> <i>Chinese J. of Geophys.</i>, 62(11): 4437-4450, doi:10.6038/cjg2019M0362. 
 
-<b>Wang, S.</b>, Kalscheuer, T., Bastani, M., Malehmir, A., Pedersen, L.B., Dahlin T., Meqbel, N., 2018. <br> <b>[Joint inversion of lake-floor electrical resistivity tomography and boat-towed radio-magnetotelluric data illustrated on synthetic data and an application from the Äspö Hard Rock Laboratory site, Sweden.](https://www.sciencedirect.com/science/article/pii/S0040195116300725)</b> <br>  <i>Geophys. J. Int.</i>, 213(1), 511-533.
+<b>Wang, S.</b>, Kalscheuer, T., Bastani, M., Malehmir, A., Pedersen, L.B., Dahlin T., Meqbel, N., 2018. <br> <b>[Joint inversion of lake-floor electrical resistivity tomography and boat-towed radio-magnetotelluric data illustrated on synthetic data and an application from the Äspö Hard Rock Laboratory site, Sweden.](https://academic.oup.com/gji/article/213/1/511/4331636)</b> <br>  <i>Geophys. J. Int.</i>, 213(1), 511-533.
 
 <b>Wang, S.</b>, 2017. <br> <b>[Joint inversion and integration of multiple geophysical data for improved models of near-surface structures.](http://www.diva-portal.org/smash/get/diva2:1129430/FULLTEXT01.pdf)</b> <br>  <i>PhD thesis</i>, Uppsala University, Uppsala. ISBN: 978-91-513-0018-4 
 
