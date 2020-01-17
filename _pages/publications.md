@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 [Ctrl/⌘+click opens all the links in a new tab](https://shunguowang.github.io/google5dce8c34251015a7.html)
-<br>
+
 <b>Wang, S.</b>, Constable, S., Rychert C.A., Harmon N., 2020. <br> <b>[A lithosphere-asthenosphere boundary and partial melt resolved using marine magnetotelluric data.]</b> <br> <i>Manuscript</i> 
 
 <b>Wang, S.</b>, Constable, S., Reyes-Ortega, V., Jahandari, H., Farquharson, C., Avilés-Esquivel, T., 2020. <br> <b>[Two-dimensional determinant inversion of marine magnetotelluric data and a field example from the Gulf of California, Mexico.]</b> <br>  <i>Under review</i>
