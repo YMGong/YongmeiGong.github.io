@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I become a geophysicist. You do if you enjoy implementing new algorithms, acquiring geophysical datasets in the surprising nature, and processing the field data to understand the stories of the Earth. Electrical resistivity tomography, radio/audio-magnetotellurics, controlled source electromagnetics, and seismic refraction are mine special collections in geophysics. I also like surfing, hiking, reading, yoga, etc.
+I become a geophysicist. You do if you enjoy implementing new algorithms, acquiring geophysical datasets in the surprising nature, and processing the field data to understand the stories of Mother Earth. Electrical resistivity tomography, radio/audio-magnetotellurics, controlled source electromagnetics, and seismic refraction are mine special collections in geophysics. I also like surfing, hiking, reading, yoga, etc.
 
 <br> <b> <span style="font-size:150%"> Employment </span> </b> <br> 
 <br> <b>2018 -</b> 
