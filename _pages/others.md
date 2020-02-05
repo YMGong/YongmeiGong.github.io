@@ -13,7 +13,7 @@ author_profile: true
 <br> <b>[Participants list](http://shunguowang.github.io/others/Public_Donation.xlsx)</b> 
 
 <br>
-<b>Selected Hospital</b> <br>
+<b>Selected hospital & items</b> <br>
 
 <p align="center">
   <img src="http://shunguowang.github.io/others/Zhu.jpg" alt="Photo" style="width: 200px;"/> 
