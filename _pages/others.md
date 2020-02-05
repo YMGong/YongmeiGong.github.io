@@ -10,7 +10,7 @@ author_profile: true
 <b>Selected Hospital</b> <br>
 
 <p align="center">
-  <img src="http://shunguowang.github.io/others/Zhu.jpg" alt="Photo" style="width: 100px;"/> 
+  <img src="http://shunguowang.github.io/others/Zhu.jpg" alt="Photo" style="width: 200px;"/> 
 </p>
 
 <br>
