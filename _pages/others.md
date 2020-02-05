@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <br>
-<b>Besides Science</b> <br>
+<b>To be kind, to be brave</b> <br>
 
 <br>
 <b>Selected Hospital</b> <br>
