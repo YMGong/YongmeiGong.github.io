@@ -9,6 +9,10 @@ author_profile: true
 <b>To be kind, to be brave</b> <br>
 
 <br>
+<b>Participants</b> <br>
+<br> <b>[Participants list](http://shunguowang.github.io/others/Public_Donation.xlsx)</b> 
+
+<br>
 <b>Selected Hospital</b> <br>
 
 <p align="center">
@@ -24,6 +28,3 @@ author_profile: true
 <br> <b>[附件4 - 装箱单模板](http://shunguowang.github.io/others/附件4 - 装箱单模板.doc)</b> 
 <br> <b>[网购捐赠物品电邮通知单](http://shunguowang.github.io/others/网购捐赠物品电邮通知单.doc)</b> 
 
-<br>
-<b>Participants</b> <br>
-<br> <b>[Participants list](http://shunguowang.github.io/others/Public_Donation.xlsx)</b> 
