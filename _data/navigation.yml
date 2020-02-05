@@ -14,6 +14,9 @@ main:
     
   - title: "CV"
     url: /files/CV_SWang.pdf
+      
+  - title: "Others"
+    url: /others/
     
 #  - title: "Guide"
 #    url: /markdown/
