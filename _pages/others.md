@@ -17,18 +17,23 @@ author_profile: true
 
 <p align="center">
   <img src="http://shunguowang.github.io/others/Zhu.jpg" alt="Photo" style="width: 200px;"/> 
-  <img src="http://shunguowang.github.io/others/Huang.png" alt="Photo" style="width: 210px;"/>
+  <img src="http://shunguowang.github.io/others/Huang.png" alt="Photo" style="width: 220px;"/>
 </p>
 
 <br>
 <b>Selected post offic</b> <br>
 
 <p align="center">
-  <img src="http://shunguowang.github.io/others/sf1.jpg" alt="Photo" style="width: 200px;"/> 
+  <img src="http://shunguowang.github.io/others/sf1.png" alt="Photo" style="width: 200px;"/> 
   <img src="http://shunguowang.github.io/others/sf2.png" alt="Photo" style="width: 200px;"/>
-  <img src="http://shunguowang.github.io/others/sf3.jpg" alt="Photo" style="width: 200px;"/> 
+  <img src="http://shunguowang.github.io/others/sf3.png" alt="Photo" style="width: 200px;"/> 
   <img src="http://shunguowang.github.io/others/sf4.png" alt="Photo" style="width: 200px;"/>
 </p>
+<p align="center">
+  <img src="http://shunguowang.github.io/others/cainiao.jpg" alt="Photo" style="width: 200px;"/> 
+</p>
+
+
 
 <br>
 <b>Requried documents</b> <br>
