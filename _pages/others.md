@@ -21,7 +21,7 @@ author_profile: true
 </p>
 
 <br>
-<b>Selected post offic</b> <br>
+<b>Selected post office</b> <br>
 
 <p align="center">
   <img src="http://shunguowang.github.io/others/sf1.png" alt="Photo" style="width: 200px;"/> 
