@@ -16,7 +16,7 @@ author_profile: true
 <b>Selected hospital & items</b> <br>
 
 <p align="center">
-  <img src="http://shunguowang.github.io/others/Zhu.jpg" alt="Photo" style="width: 200px;"/> 
+  <img src="http://shunguowang.github.io/others/Zhu.jpg" alt="Photo" style="width: 200px; src="http://shunguowang.github.io/others/Huang.png" alt="Photo" style="width: 200px;"/> 
 </p>
 
 <br>
