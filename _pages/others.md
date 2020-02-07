@@ -17,7 +17,7 @@ author_profile: true
 
 <p align="center">
   <img src="http://shunguowang.github.io/others/Zhu.jpg" alt="Photo" style="width: 200px;"/> 
-  <img src="http://shunguowang.github.io/others/Huang.png" alt="Photo" style="width: 250px;"/>
+  <img src="http://shunguowang.github.io/others/Huang.png" alt="Photo" style="width: 210px;"/>
 </p>
 
 <br>
