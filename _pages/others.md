@@ -13,7 +13,7 @@ author_profile: true
 <br> <b>[Participants list](http://shunguowang.github.io/others/Public_Donation.xlsx)</b> 
 
 <br>
-<b>Collaboration with Xiangya overseas alumni association</b> <br>
+<b>Collaboration with [Xiangya overseas alumni association](https://www.xyoaa.org/)</b> <br>
 
 <p align="center">
   <img src="http://shunguowang.github.io/others/XYOAA1.png" alt="Photo" style="width: 200px;"/> 
