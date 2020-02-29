@@ -11,7 +11,7 @@ author_profile: true
 <br>
 <b>Participants [list](http://shunguowang.github.io/others/Public_Donation.xlsx)</b> 
 
-    All are UCSD-SIO Chinese Students and Scholar. 
+    All are UCSD-SIO Chinese Students and Scholars. 
 
 <br>
 <b>Collaboration with [Xiangya overseas alumni association](https://www.xyoaa.org/)</b> <br>
