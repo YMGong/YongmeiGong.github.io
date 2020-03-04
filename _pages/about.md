@@ -8,6 +8,52 @@ redirect_from:
   - /about.html
 ---
 
+
+<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel"
+  style="margin-top: 10px; margin-bottom: 10px;">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://picsum.photos/1600/800" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="https://picsum.photos/800/400" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="https://picsum.photos/800/400" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="https://picsum.photos/800/400" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" data-target="#carouselExampleCaptions" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" data-target="#carouselExampleCaptions" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
 I became a geophysicist. You do so if you enjoy implementing new algorithms, acquiring geophysical datasets in surprising environments, and processing the field data to understand the stories of Mother Earth. Electrical resistivity tomography, radio/audio-magnetotellurics, controlled source electromagnetics, and seismic refraction are my special interests in geophysics. I also like surfing, hiking, reading, yoga, etc.
 
 <br> <b> <span style="font-size:150%"> Employment </span> </b> <br> 
