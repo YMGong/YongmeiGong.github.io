@@ -21,25 +21,25 @@ redirect_from:
     <div class="carousel-item active">
       <img src="http://shunguowang.github.io/images/SIO.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+        <p>SIO view from the nearby pier.</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="http://shunguowang.github.io/images/Rock.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p>Sendimentary rock found at La Jolla beach.</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="http://shunguowang.github.io/images/Uppsala.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+        <p>Dark and beautiful Uppsala.</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="http://shunguowang.github.io/images/RMT.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+        <p>RMT field work at Äspö.</p>
       </div>
     </div>
   </div>
