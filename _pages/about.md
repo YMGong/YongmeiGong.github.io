@@ -19,7 +19,7 @@ redirect_from:
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="http://shunguowang.github.io/images/SIO.jpeg" class="d-block w-100" alt="...">
+      <img src="http://shunguowang.github.io/images/SIO.jpeg/800/400" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
       </div>
