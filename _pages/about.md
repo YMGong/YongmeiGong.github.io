@@ -67,12 +67,12 @@ I became a geophysicist. You do so if you enjoy implementing new algorithms, acq
 <br> Collaborators: [Colin G. Farquharson](https://www.esd.mun.ca/~farq/), [Hormoz Jahandari](https://www.mun.ca/math/people/ppl-postdoc/hormoz.php)
 <br> <b>2014, 2016</b> 
 <br> EM geophysicist, Geological Survey of Sweden
-<br> Collaborators: Mehrdad Bastani, Lena Persson
+<br> Collaborators: [Mehrdad Bastani](https://www.researchgate.net/profile/Mehrdad_Bastani), [Lena Persson](https://www.researchgate.net/profile/Lena_Persson2)
 
 <br> <b> <span style="font-size:150%"> Education </span> </b> <br>
 <br> <b>2013 - 2017</b> 
 <br> Ph.D., Solid-Earth Geophysics, Uppsala University
-<br> Advisors: [Mehrdad Bastani](https://katalog.uu.se/profile/?id=N96-5395), [Thomas Kalscheuer](https://katalog.uu.se/profile/?id=N4-593), [Alireza Malehmir](https://katalog.uu.se/profile/?id=N3-1060), [Laust B. Pedersen](https://www.researchgate.net/profile/Laust_Pedersen)
+<br> Advisors: [Mehrdad Bastani](https://www.researchgate.net/profile/Mehrdad_Bastani), [Thomas Kalscheuer](https://katalog.uu.se/profile/?id=N4-593), [Alireza Malehmir](https://katalog.uu.se/profile/?id=N3-1060), [Laust B. Pedersen](https://www.researchgate.net/profile/Laust_Pedersen)
 <br> <b>2017</b> 
 <br> Visiting graduate, Scripps Institution of Oceanography
 <br> Host: [Steven Constable](https://marineemlab.ucsd.edu/steve/)
