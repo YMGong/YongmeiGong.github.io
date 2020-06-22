@@ -21,7 +21,7 @@ redirect_from:
     <div class="carousel-item active">
       <img src="http://shunguowang.github.io/images/SIO.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <p>SIO view from the nearby pier.</p>
+        <p>SIO view from Scripps pier.</p>
       </div>
     </div>
     <div class="carousel-item">
@@ -39,7 +39,7 @@ redirect_from:
     <div class="carousel-item">
       <img src="http://shunguowang.github.io/images/RMT.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <p>RMT field work at Äspö.</p>
+        <p>RMT field work at Äspö, Sweden.</p>
       </div>
     </div>
   </div>
