@@ -90,4 +90,5 @@ I became a geophysicist. You do so if you enjoy implementing new algorithms, acq
 <br> <b>2005 - 2009</b> 
 <br> B.S., Applied Geophysics, Central South University
 
+<title>Online Visitors Counter</title>
 <script src='http://shunguowang.github.io/online-visitors-counter-master/ovc/counter.js'></script>
