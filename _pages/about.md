@@ -89,3 +89,5 @@ I became a geophysicist. You do so if you enjoy implementing new algorithms, acq
 <br> Exchange program, Guilin University of Technology
 <br> <b>2005 - 2009</b> 
 <br> B.S., Applied Geophysics, Central South University
+
+<script src='path/to/ovc/counter.js'></script>
