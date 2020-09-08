@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 
+<title>Online Visitors Counter</title>
+<script src='http://shunguowang.github.io/online-visitors-counter-master/ovc/counter.js'></script>
+
 <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel"
   style="margin-top: 10px; margin-bottom: 10px;">
   <ol class="carousel-indicators">
