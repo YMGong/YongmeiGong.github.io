@@ -62,7 +62,10 @@ redirect_from:
 I became a geophysicist. You do so if you enjoy implementing new algorithms, acquiring geophysical datasets in surprising environments, and processing the field data to understand the stories of Mother Earth. Electrical resistivity tomography, radio/audio-magnetotellurics, controlled source electromagnetics, and seismic refraction are my special interests in geophysics. I also like surfing, hiking, reading, yoga, etc.
 
 <br> <b> <span style="font-size:150%"> Employment </span> </b> <br> 
-<br> <b>2018 -</b> 
+<br> <b>2020 - </b> 
+<br> Researcher, Norwegian University of Science and Technology
+<br> Collaborators: [Ståle Emil Johansen](https://www.ntnu.no/ansatte/stale.johansen), [Martin Landrø](https://www.ntnu.no/ansatte/martin.landro)
+<br> <b>2018 - 2020</b> 
 <br> Green Scholar (postdoc), Scripps Institution of Oceanography
 <br> Advisor: [Steven Constable](https://marineemlab.ucsd.edu/steve/)
 <br> <b>2019</b> 
