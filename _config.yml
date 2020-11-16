@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shunguo Wang"
 title_separator          : "-"
 name                     : &name "Shunguo Wang"
-description              : &description "Postdoc at SIO"
+description              : &description "Researcher at NTNU"
 url                      : https://ShunguoWang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShunguoWang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shunguo Wang"
   avatar           : "Photo.jpg"
-  bio              : "Postdoctoral Researcher at Scripps Institution of Oceanography, UC San Diego"
+  bio              : "Researcher at Norwegian University of Science and Technology"
   location         : "La Jolla, California"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
