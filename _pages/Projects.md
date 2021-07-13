@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "MARS3DMT" 
+title: "Projects" 
 permalink: /project/ 
 author_profile: true
 ---
